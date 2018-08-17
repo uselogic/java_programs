@@ -5,7 +5,7 @@ public class Treeapp {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		Tree thetree=new Tree();
-		
+		//preorder ,inorder and postorder are same so use logic to change them
 		while(true)
 		{
 			System.out.println("enter below choices to do what you want to do");
